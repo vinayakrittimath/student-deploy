@@ -92,11 +92,14 @@ button {
 button:hover {
   transform: translateY(-3px);
   box-shadow: 0 12px 25px rgba(0,0,0,0.5);
+
 }
 
 /* Button Colors */
 .add-btn {
-  background: linear-gradient(90deg,#00d2ff,#3a7bd5);
+  /* background: linear-gradient(90deg,#00d2ff,#3a7bd5); */
+  
+
 }
 .excel-btn {
   background: linear-gradient(90deg,#56ab2f,#a8e063);
